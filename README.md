@@ -1,6 +1,13 @@
 # Staff Management
 Ideas for Staff Management System, to be completed as I learn
 
+## Start Point
+# Recruitment  
+Advertise roles  
+Library of JDs  
+Checklist for onboarding  
+
+
 
 ## Deployment
 Drag-drop to move people into different tasks
